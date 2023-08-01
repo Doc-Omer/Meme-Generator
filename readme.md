@@ -10,6 +10,6 @@ Course link: https://scrimba.com/learn/learnreact
 
 Thanks Bob Ziroll!
 
-![Screenshots](https://github.com/Doc-Omer/Meme-Generator/blob/master/public/Screenshot2.png?raw=true)
+![Screenshots](https://github.com/Doc-Omer/Meme-Generator/blob/master/public/Screenshot1.png?raw=true)
 
 ![Screenshots](https://github.com/Doc-Omer/Meme-Generator/blob/master/public/Screenshot2.png?raw=true)
